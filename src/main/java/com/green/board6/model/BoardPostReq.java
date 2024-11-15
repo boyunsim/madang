@@ -1,7 +1,7 @@
 package com.green.board6.model;
 
 import lombok.*;
-
+//히히
 @Getter
 @Setter
 @ToString
